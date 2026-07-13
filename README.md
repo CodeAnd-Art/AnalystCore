@@ -1,2 +1,0 @@
-# AnalystCore
-iş a null
